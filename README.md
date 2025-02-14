@@ -1,2 +1,2 @@
 # delta-demo
-github training
+github training.
